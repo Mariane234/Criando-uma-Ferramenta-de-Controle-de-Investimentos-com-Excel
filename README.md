@@ -32,3 +32,4 @@ Permitir que o usuário simule diferentes cenários de investimento, respondendo
 - Materiais da DIO
 ## ✨ Autor
 Projeto desenvolvido por Mariane Souza como parte da trilha *Santander Excel com Inteligência Artificial* na DIO.
+https://docs.google.com/spreadsheets/d/1YcIbelJ5Z6RDiWDRqJNBENT98yOo8h3SdK7JNwrmnJc/edit?gid=0#gid=0
